@@ -18,16 +18,4 @@
   <p>The Layout Manager arranges the elements of the RecyclerView either in a table/grid format or in a linear format. It controls the layout and positioning of items within the RecyclerView.</p>
   <p><strong>Example</strong>: <a href="https://developer.android.com/reference/androidx/recyclerview/widget/GridLayoutManager">GridLayoutManager</a></p>
 
-  <h2>Usage</h2>
-  <ol>
-    <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/your_username/periodic-table-app.git</code></pre>
-    <li>Open the project in Android Studio.</li>
-    <li>Explore the provided examples and customize them according to your requirements.</li>
-  </ol>
-
-  <h2>Contributing</h2>
-  <p>Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.</p>
-
-  <h2>License</h2>
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+ 
